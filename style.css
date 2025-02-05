@@ -1,0 +1,11 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-family:Cambria;
+  padding: 10px;
+  background-color: #47454f;
+  color: #e0e0e0
+}
